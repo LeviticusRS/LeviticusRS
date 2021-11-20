@@ -18,3 +18,6 @@
     </td>
   </tr>
 </p>
+
+Time coded since sept 2020:
+<a href="https://wakatime.com/@107ecef4-babb-46c9-90d7-de61e804bcd9"><img src="https://wakatime.com/badge/user/107ecef4-babb-46c9-90d7-de61e804bcd9.svg" alt="Total time coded since Sep 20 2020" /></a>
